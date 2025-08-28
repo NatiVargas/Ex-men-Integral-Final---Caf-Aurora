@@ -1,0 +1,4 @@
+# nada sensible, pero evita archivos del sistema 
+.DS_Store 
+Thumbs.db 
+*.tar.gz 
